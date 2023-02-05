@@ -1,3 +1,4 @@
+
 @-webkit-keyframes spin
 {
     0%
@@ -383,4 +384,5 @@
 {
     -webkit-animation: fade-right 1.5s infinite linear;
             animation: fade-right 1.5s infinite linear;
+
 }

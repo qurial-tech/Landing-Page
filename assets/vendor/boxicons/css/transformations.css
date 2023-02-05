@@ -1,3 +1,4 @@
+
 .bx-rotate-90
 {
     transform: rotate(90deg);
@@ -28,3 +29,4 @@
 
     -ms-filter: 'progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)';
 }
+

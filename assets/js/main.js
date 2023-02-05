@@ -1,3 +1,4 @@
+
 /**
 * Template Name: Vesperr - v4.10.0
 * Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
@@ -258,5 +259,8 @@
    * Initiate Pure Counter 
    */
   new PureCounter();
+
+
+
 
 })()
