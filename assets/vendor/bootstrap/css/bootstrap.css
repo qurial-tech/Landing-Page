@@ -602,6 +602,12 @@ progress {
   height: auto;
 }
 
+.img-fluid-team {
+  max-width: 100%;
+  /* width: auto; */
+  height: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
